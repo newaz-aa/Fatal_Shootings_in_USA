@@ -8,3 +8,8 @@ The data has been collected from the Washington Post. It is available in this re
 
 ## Screenshots
 
+![state](https://github.com/newaz-aa/Shootings_in_USA/blob/main/Figures/state.png)
+
+![AA](https://github.com/newaz-aa/Shootings_in_USA/blob/main/Figures/african-american.png)
+
+![killings](https://github.com/newaz-aa/Shootings_in_USA/blob/main/Figures/police_killings.gif)
