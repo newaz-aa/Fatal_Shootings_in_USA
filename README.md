@@ -6,6 +6,9 @@ Data analysis of the police shootings as well as the school shootings in the USA
 ## Data 
 The data has been collected from the Washington Post. It is available in this repository - https://github.com/washingtonpost/data-police-shootings. 
 
+## Note
+This repository is currently being updated.
+
 ## Screenshots
 
 ![state](https://github.com/newaz-aa/Shootings_in_USA/blob/main/Figures/state.png)
